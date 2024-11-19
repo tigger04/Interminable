@@ -1,2 +1,5 @@
 #+TITLE: Interminable
 /Retro linux terminal font with a hint of European attitude./
+
+SIL Open Font License v1.1
+To edit the sources: FontForge file formats (*.sfd*)
